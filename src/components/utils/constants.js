@@ -16,7 +16,6 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
@@ -34,9 +33,10 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
+
+ export const demoThumbnailUrl = 'https://media.istockphoto.com/vectors/no-thumbnail-image-vector-graphic-vector-id1147544810?k=6&m=1147544810&s=612x612&w=0&h=LLdG9L4tfdum-uXqfrsw6VGkmQkw2Y_BnL9bYGczsfk=';
+export const demoChannelUrl = '/channel/UCT9zcQNlyht7fRlcjmflRSA';
+export const demoVideoUrl = '/video/jNQXAC9IVRw';
+export const demoChannelTitle = 'Channel name missing..';
+export const demoVideoTitle = 'This is a demo title text';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
